@@ -1,0 +1,10 @@
+C:\Users\38276\Desktop\C#\FoodCharge\FoodCharge\bin\Debug\FoodCharge.exe.config
+C:\Users\38276\Desktop\C#\FoodCharge\FoodCharge\bin\Debug\FoodCharge.exe
+C:\Users\38276\Desktop\C#\FoodCharge\FoodCharge\bin\Debug\FoodCharge.pdb
+C:\Users\38276\Desktop\C#\FoodCharge\FoodCharge\obj\Debug\FoodCharge.csproj.AssemblyReference.cache
+C:\Users\38276\Desktop\C#\FoodCharge\FoodCharge\obj\Debug\FoodCharge.Form1.resources
+C:\Users\38276\Desktop\C#\FoodCharge\FoodCharge\obj\Debug\FoodCharge.Properties.Resources.resources
+C:\Users\38276\Desktop\C#\FoodCharge\FoodCharge\obj\Debug\FoodCharge.csproj.GenerateResource.cache
+C:\Users\38276\Desktop\C#\FoodCharge\FoodCharge\obj\Debug\FoodCharge.csproj.CoreCompileInputs.cache
+C:\Users\38276\Desktop\C#\FoodCharge\FoodCharge\obj\Debug\FoodCharge.exe
+C:\Users\38276\Desktop\C#\FoodCharge\FoodCharge\obj\Debug\FoodCharge.pdb

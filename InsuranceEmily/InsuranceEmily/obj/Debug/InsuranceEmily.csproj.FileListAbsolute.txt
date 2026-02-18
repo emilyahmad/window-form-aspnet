@@ -1,0 +1,10 @@
+C:\Users\38276\Desktop\C#\InsuranceEmily\InsuranceEmily\bin\Debug\InsuranceEmily.exe.config
+C:\Users\38276\Desktop\C#\InsuranceEmily\InsuranceEmily\bin\Debug\InsuranceEmily.exe
+C:\Users\38276\Desktop\C#\InsuranceEmily\InsuranceEmily\bin\Debug\InsuranceEmily.pdb
+C:\Users\38276\Desktop\C#\InsuranceEmily\InsuranceEmily\obj\Debug\InsuranceEmily.csproj.AssemblyReference.cache
+C:\Users\38276\Desktop\C#\InsuranceEmily\InsuranceEmily\obj\Debug\InsuranceEmily.Form1.resources
+C:\Users\38276\Desktop\C#\InsuranceEmily\InsuranceEmily\obj\Debug\InsuranceEmily.Properties.Resources.resources
+C:\Users\38276\Desktop\C#\InsuranceEmily\InsuranceEmily\obj\Debug\InsuranceEmily.csproj.GenerateResource.cache
+C:\Users\38276\Desktop\C#\InsuranceEmily\InsuranceEmily\obj\Debug\InsuranceEmily.csproj.CoreCompileInputs.cache
+C:\Users\38276\Desktop\C#\InsuranceEmily\InsuranceEmily\obj\Debug\InsuranceEmily.exe
+C:\Users\38276\Desktop\C#\InsuranceEmily\InsuranceEmily\obj\Debug\InsuranceEmily.pdb

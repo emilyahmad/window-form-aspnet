@@ -1,0 +1,10 @@
+C:\Users\38276\Desktop\C#\myFirstCSharpProgram\myFirstCSharpProgram\bin\Debug\myFirstCSharpProgram.exe.config
+C:\Users\38276\Desktop\C#\myFirstCSharpProgram\myFirstCSharpProgram\bin\Debug\myFirstCSharpProgram.exe
+C:\Users\38276\Desktop\C#\myFirstCSharpProgram\myFirstCSharpProgram\bin\Debug\myFirstCSharpProgram.pdb
+C:\Users\38276\Desktop\C#\myFirstCSharpProgram\myFirstCSharpProgram\obj\Debug\myFirstCSharpProgram.csproj.AssemblyReference.cache
+C:\Users\38276\Desktop\C#\myFirstCSharpProgram\myFirstCSharpProgram\obj\Debug\myFirstCSharpProgram.Form1.resources
+C:\Users\38276\Desktop\C#\myFirstCSharpProgram\myFirstCSharpProgram\obj\Debug\myFirstCSharpProgram.Properties.Resources.resources
+C:\Users\38276\Desktop\C#\myFirstCSharpProgram\myFirstCSharpProgram\obj\Debug\myFirstCSharpProgram.csproj.GenerateResource.cache
+C:\Users\38276\Desktop\C#\myFirstCSharpProgram\myFirstCSharpProgram\obj\Debug\myFirstCSharpProgram.csproj.CoreCompileInputs.cache
+C:\Users\38276\Desktop\C#\myFirstCSharpProgram\myFirstCSharpProgram\obj\Debug\myFirstCSharpProgram.exe
+C:\Users\38276\Desktop\C#\myFirstCSharpProgram\myFirstCSharpProgram\obj\Debug\myFirstCSharpProgram.pdb
