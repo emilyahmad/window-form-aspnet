@@ -1,0 +1,12 @@
+C:\Users\38276\Desktop\C#\population form\population form\bin\Debug\population form.exe.config
+C:\Users\38276\Desktop\C#\population form\population form\bin\Debug\population form.exe
+C:\Users\38276\Desktop\C#\population form\population form\bin\Debug\population form.pdb
+C:\Users\38276\Desktop\C#\population form\population form\obj\Debug\population form.csproj.AssemblyReference.cache
+C:\Users\38276\Desktop\C#\population form\population form\obj\Debug\population_form.Form1.resources
+C:\Users\38276\Desktop\C#\population form\population form\obj\Debug\population_form.Properties.Resources.resources
+C:\Users\38276\Desktop\C#\population form\population form\obj\Debug\population form.csproj.GenerateResource.cache
+C:\Users\38276\Desktop\C#\population form\population form\obj\Debug\population form.csproj.CoreCompileInputs.cache
+C:\Users\38276\Desktop\C#\population form\population form\obj\Debug\population form.exe
+C:\Users\38276\Desktop\C#\population form\population form\obj\Debug\population form.pdb
+C:\Users\38276\Desktop\C#\population form\population form\bin\Debug\USPopulation.txt
+C:\Users\38276\Desktop\C#\population form\population form\obj\Debug\population form.exe.config

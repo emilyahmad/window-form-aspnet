@@ -1,0 +1,11 @@
+C:\Users\38276\Desktop\C#\PropertyCalculator\PropertyCalculator\bin\Debug\PropertyCalculator.exe.config
+C:\Users\38276\Desktop\C#\PropertyCalculator\PropertyCalculator\bin\Debug\PropertyCalculator.exe
+C:\Users\38276\Desktop\C#\PropertyCalculator\PropertyCalculator\bin\Debug\PropertyCalculator.pdb
+C:\Users\38276\Desktop\C#\PropertyCalculator\PropertyCalculator\obj\Debug\PropertyCalculator.csproj.AssemblyReference.cache
+C:\Users\38276\Desktop\C#\PropertyCalculator\PropertyCalculator\obj\Debug\PropertyCalculator.Form1.resources
+C:\Users\38276\Desktop\C#\PropertyCalculator\PropertyCalculator\obj\Debug\PropertyCalculator.Properties.Resources.resources
+C:\Users\38276\Desktop\C#\PropertyCalculator\PropertyCalculator\obj\Debug\PropertyCalculator.csproj.GenerateResource.cache
+C:\Users\38276\Desktop\C#\PropertyCalculator\PropertyCalculator\obj\Debug\PropertyCalculator.csproj.CoreCompileInputs.cache
+C:\Users\38276\Desktop\C#\PropertyCalculator\PropertyCalculator\obj\Debug\PropertyCalculator.exe
+C:\Users\38276\Desktop\C#\PropertyCalculator\PropertyCalculator\obj\Debug\PropertyCalculator.pdb
+C:\Users\38276\Desktop\C#\PropertyCalculator\PropertyCalculator\obj\Debug\PropertyCalculator.exe.config

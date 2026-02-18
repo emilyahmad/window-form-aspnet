@@ -1,0 +1,12 @@
+C:\Users\38276\Desktop\C#\population Emily\population Emily\bin\Debug\USPopulation.txt
+C:\Users\38276\Desktop\C#\population Emily\population Emily\bin\Debug\population Emily.exe.config
+C:\Users\38276\Desktop\C#\population Emily\population Emily\bin\Debug\population Emily.exe
+C:\Users\38276\Desktop\C#\population Emily\population Emily\bin\Debug\population Emily.pdb
+C:\Users\38276\Desktop\C#\population Emily\population Emily\obj\Debug\population Emily.csproj.AssemblyReference.cache
+C:\Users\38276\Desktop\C#\population Emily\population Emily\obj\Debug\population_Emily.Form1.resources
+C:\Users\38276\Desktop\C#\population Emily\population Emily\obj\Debug\population_Emily.Properties.Resources.resources
+C:\Users\38276\Desktop\C#\population Emily\population Emily\obj\Debug\population Emily.csproj.GenerateResource.cache
+C:\Users\38276\Desktop\C#\population Emily\population Emily\obj\Debug\population Emily.csproj.CoreCompileInputs.cache
+C:\Users\38276\Desktop\C#\population Emily\population Emily\obj\Debug\population Emily.exe
+C:\Users\38276\Desktop\C#\population Emily\population Emily\obj\Debug\population Emily.pdb
+C:\Users\38276\Desktop\C#\population Emily\population Emily\obj\Debug\population Emily.exe.config

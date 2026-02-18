@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36414.22 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "population form", "population form\population form.csproj", "{B7C31C15-291C-4C3F-8408-8918B3193B9E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B7C31C15-291C-4C3F-8408-8918B3193B9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7C31C15-291C-4C3F-8408-8918B3193B9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7C31C15-291C-4C3F-8408-8918B3193B9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7C31C15-291C-4C3F-8408-8918B3193B9E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4921BE09-0761-4E0E-81A1-BE2BB14CD475}
+	EndGlobalSection
+EndGlobal
