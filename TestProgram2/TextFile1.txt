@@ -1,0 +1,14 @@
+output: markup price	lblMarkupPrice		decimal markupPrice
+
+
+Input:	item to purchase	txtItem		string Item
+		price				txtPrice	decimal price
+
+
+Processes:
+1. declare variables	markupPrice, Item, price, total
+2. get input and convert
+	item, price To Decimal
+3. total = price * 1.25
+4. Output and convert
+	Item and total - convert string

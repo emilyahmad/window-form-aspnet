@@ -1,0 +1,11 @@
+C:\Users\38276\Desktop\C#\TestProgram2\TestProgram2\bin\Debug\TestProgram2.exe.config
+C:\Users\38276\Desktop\C#\TestProgram2\TestProgram2\bin\Debug\TestProgram2.exe
+C:\Users\38276\Desktop\C#\TestProgram2\TestProgram2\bin\Debug\TestProgram2.pdb
+C:\Users\38276\Desktop\C#\TestProgram2\TestProgram2\obj\Debug\TestProgram2.csproj.AssemblyReference.cache
+C:\Users\38276\Desktop\C#\TestProgram2\TestProgram2\obj\Debug\TestProgram2.Form1.resources
+C:\Users\38276\Desktop\C#\TestProgram2\TestProgram2\obj\Debug\TestProgram2.Properties.Resources.resources
+C:\Users\38276\Desktop\C#\TestProgram2\TestProgram2\obj\Debug\TestProgram2.csproj.GenerateResource.cache
+C:\Users\38276\Desktop\C#\TestProgram2\TestProgram2\obj\Debug\TestProgram2.csproj.CoreCompileInputs.cache
+C:\Users\38276\Desktop\C#\TestProgram2\TestProgram2\obj\Debug\TestProgram2.exe
+C:\Users\38276\Desktop\C#\TestProgram2\TestProgram2\obj\Debug\TestProgram2.pdb
+C:\Users\38276\Desktop\C#\TestProgram2\TestProgram2\obj\Debug\TestProgram2.exe.config

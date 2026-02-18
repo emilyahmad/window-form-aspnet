@@ -1,0 +1,11 @@
+C:\Users\38276\Desktop\C#\SentenceBuildEmily\SentenceBuildEmily\bin\Debug\SentenceBuildEmily.exe.config
+C:\Users\38276\Desktop\C#\SentenceBuildEmily\SentenceBuildEmily\bin\Debug\SentenceBuildEmily.exe
+C:\Users\38276\Desktop\C#\SentenceBuildEmily\SentenceBuildEmily\bin\Debug\SentenceBuildEmily.pdb
+C:\Users\38276\Desktop\C#\SentenceBuildEmily\SentenceBuildEmily\obj\Debug\SentenceBuildEmily.csproj.AssemblyReference.cache
+C:\Users\38276\Desktop\C#\SentenceBuildEmily\SentenceBuildEmily\obj\Debug\SentenceBuildEmily.Form1.resources
+C:\Users\38276\Desktop\C#\SentenceBuildEmily\SentenceBuildEmily\obj\Debug\SentenceBuildEmily.Properties.Resources.resources
+C:\Users\38276\Desktop\C#\SentenceBuildEmily\SentenceBuildEmily\obj\Debug\SentenceBuildEmily.csproj.GenerateResource.cache
+C:\Users\38276\Desktop\C#\SentenceBuildEmily\SentenceBuildEmily\obj\Debug\SentenceBuildEmily.csproj.CoreCompileInputs.cache
+C:\Users\38276\Desktop\C#\SentenceBuildEmily\SentenceBuildEmily\obj\Debug\SentenceBuildEmily.exe
+C:\Users\38276\Desktop\C#\SentenceBuildEmily\SentenceBuildEmily\obj\Debug\SentenceBuildEmily.pdb
+C:\Users\38276\Desktop\C#\SentenceBuildEmily\SentenceBuildEmily\obj\Debug\SentenceBuildEmily.exe.config

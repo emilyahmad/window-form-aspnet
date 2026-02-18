@@ -1,0 +1,5 @@
+C:\Users\38276\Desktop\C#\words_and_letters\words_and_letters\obj\Debug\words_and_letters.csproj.AssemblyReference.cache
+C:\Users\38276\Desktop\C#\words_and_letters\words_and_letters\obj\Debug\words_and_letters.Form1.resources
+C:\Users\38276\Desktop\C#\words_and_letters\words_and_letters\obj\Debug\words_and_letters.Properties.Resources.resources
+C:\Users\38276\Desktop\C#\words_and_letters\words_and_letters\obj\Debug\words_and_letters.csproj.GenerateResource.cache
+C:\Users\38276\Desktop\C#\words_and_letters\words_and_letters\obj\Debug\words_and_letters.csproj.CoreCompileInputs.cache
